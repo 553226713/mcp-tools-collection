@@ -12,6 +12,7 @@ A curated collection of useful Model Context Protocol (MCP) servers and tools fo
 | [GitHub](https://github.com/github/github-mcp-server) | GitHub API integration | `npx @github/mcp-server` |
 | [Playwright](https://github.com/microsoft/playwright-mcp) | Browser automation | `npx @playwright/mcp-server` |
 | [Brave Search](https://github.com/brave-experiments/brave-search-mcp) | Web search | `npx @brave/mcp-server` |
+| [notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Google NotebookLM API | `pip install notebooklm-py` |
 
 ### 🗄️ Databases
 
@@ -27,6 +28,7 @@ A curated collection of useful Model Context Protocol (MCP) servers and tools fo
 |--------|-------------|-------------|
 | [Memory](https://github.com/modelcontextprotocol/server-memory) | Persistent memory | `npx @modelcontextprotocol/server-memory` |
 | [Knowledge Graph](https://github.com/neo4j-labs/mcp-server) | Neo4j knowledge graph | `npx @neo4j-labs/mcp-server` |
+| [Context7](https://github.com/upstash/context7) | Up-to-date code docs for LLMs | `npx @upstash/context7` |
 
 ### 📡 Communication
 
@@ -35,6 +37,13 @@ A curated collection of useful Model Context Protocol (MCP) servers and tools fo
 | [Slack](https://github.com/slackhq/bolt-js/tree/main/packages/mcp-server) | Slack integration | `npx @slack/mcp-server` |
 | [Discord](https://github.com/eriknix/mcp-discord) | Discord bot | `npx @eriknix/mcp-discord` |
 | [Gmail](https://github.com/charles-m-taylor/gmail-mcp) | Gmail API | `npx @charles-m-taylor/gmail-mcp` |
+
+### 🇨🇳 Chinese Ecosystem
+
+| Server | Description | Install |
+|--------|-------------|---------|
+| [wechat-mcp-server](https://github.com/553226713/wechat-mcp-server) | WeChat/Massbot automation | `npm i wechat-mcp-server` |
+| [china-ai-api](https://github.com/553226713/china-ai-api) | Unified Chinese AI APIs (DeepSeek, Kimi, Zhipu, etc.) | `npm i china-ai-api` |
 
 ### ☁️ Cloud Services
 
