@@ -19,6 +19,22 @@ A curated collection of useful Model Context Protocol (MCP) servers and tools fo
 |--------|-------------|-------------|
 | [SQLite](https://github.com/modelcontextprotocol/server-sqlite) | SQLite database | `npx @modelcontextprotocol/server-sqlite` |
 | [PostgreSQL](https://github.com/modelcontextprotocol/server-postgres) | PostgreSQL database | `npx @modelcontextprotocol/server-postgres` |
+| [Redis](https://github.com/RedisVentures/redis-mcp-server) | Redis cache & store | `npx @redisventures/redis-mcp-server` |
+
+### 🧠 Memory & Knowledge
+
+| Server | Description | npm Install |
+|--------|-------------|-------------|
+| [Memory](https://github.com/modelcontextprotocol/server-memory) | Persistent memory | `npx @modelcontextprotocol/server-memory` |
+| [Knowledge Graph](https://github.com/neo4j-labs/mcp-server) | Neo4j knowledge graph | `npx @neo4j-labs/mcp-server` |
+
+### 📡 Communication
+
+| Server | Description | npm Install |
+|--------|-------------|-------------|
+| [Slack](https://github.com/slackhq/bolt-js/tree/main/packages/mcp-server) | Slack integration | `npx @slack/mcp-server` |
+| [Discord](https://github.com/eriknix/mcp-discord) | Discord bot | `npx @eriknix/mcp-discord` |
+| [Gmail](https://github.com/charles-m-taylor/gmail-mcp) | Gmail API | `npx @charles-m-taylor/gmail-mcp` |
 
 ### ☁️ Cloud Services
 
@@ -26,12 +42,14 @@ A curated collection of useful Model Context Protocol (MCP) servers and tools fo
 |--------|-------------|-------------|
 | [AWS KB Retrieval](https://github.com/awslabs/mcp-server-aws-kb-retrieval-server) | AWS Knowledge Base | `npx @aws/mcp-server-aws-kb-retrieval` |
 | [AWS Lambda](https://github.com/awslabs/mcp-server-aws-lambda) | AWS Lambda invoke | `npx @aws/mcp-server-aws-lambda` |
+| [Google Drive](https://github.com/eriknix/mcp-google-drive) | Google Drive files | `npx @eriknix/mcp-google-drive` |
 
-### 🔍 Search & Data
+### 🎨 Media & Vision
 
 | Server | Description | npm Install |
 |--------|-------------|-------------|
-| [Puppeteer](https://github.com/modelcontextprotocol/server-puppeteer) | Web scraping | `npx @modelcontextprotocol/server-puppet` |
+| [Puppeteer](https://github.com/modelcontextprotocol/server-puppeteer) | Web scraping | `npx @modelcontextprotocol/server-puppeteer` |
+| [Image Generation](https://github.com/anthropics/anthropic-sdk-python) | AI image generation | `npx @anthropic/mcp-image` |
 
 ## 🚀 Quick Start
 
