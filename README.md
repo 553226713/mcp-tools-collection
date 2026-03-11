@@ -96,11 +96,22 @@ mcp:
       args: ["-y", "@github/mcp-server"]
 ```
 
+## 🤖 AI Agent Frameworks (Trending)
+
+| Framework | Description | Stars | Language |
+|-----------|-------------|-------|----------|
+| [AutoResearch](https://github.com/karpathy/autoresearch) | AI agents running research automatically | 23k ⭐ | Python |
+| [Paperclip](https://github.com/paperclipai/paperclip) | Open-source orchestration for zero-human companies | 16k ⭐ | TypeScript |
+| [Google Workspace CLI](https://github.com/googleworkspace/cli) | CLI for Drive, Gmail, Calendar with AI agent skills | 18k ⭐ | Rust |
+| [deeprun](https://github.com/psycheshell/deeprun) | AI agent runtime | 8k ⭐ | TypeScript |
+| [AgentScope](https://github.com/agentscope/agentscope) | Multi-agent platform | 7k ⭐ | Python |
+
 ## 📚 Resources
 
 - [Official MCP Documentation](https://modelcontextprotocol.io/)
 - [MCP Servers Directory](https://glama.ai/mcp/servers)
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
+- [Karpathy's AI Agents](https://github.com/karpathy/llm-utils#ai-agents)
 
 ## 🤝 Contributing
 
